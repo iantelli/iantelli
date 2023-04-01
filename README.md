@@ -1,7 +1,7 @@
 ﻿![proftop-optimized](assets/temp_banner.gif "Art by [froggy](https://www.https://froggy.world/)")
 
-## Hallo, I'm ian <img src="assets/catCute.webp">
-I am a full-stack web developer based in Surrey BC, Canada. As a passionate programmer, I am always looking for new and exciting challenges to tackle. My expertise lies in developing robust and scalable web applications that deliver a smooth user experience. I am also a strong collaborator and enjoy working with teams to deliver high-quality results.
+## Hello, I'm ian <img src="assets/catCute.webp">
+I am a full-stack web developer based in Surrey, British Columbia, Canada. As an enthusiastic programmer, I am always on the lookout for new and exciting challenges to tackle. My strength is in creating robust and scalable web applications that provide a pleasant user experience. I am also an excellent collaborator who enjoys working with others to produce high-quality results.
 
 ## Coding Skills <img src="assets/businessing.webp">
 Despite only starting to code four years ago, I have made significant progress in my career and am continually looking for new opportunities to learn and grow.
@@ -25,8 +25,6 @@ Some of the technologies I use the most:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contact Me <img src="assets/aloo.webp">
