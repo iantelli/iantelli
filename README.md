@@ -1,5 +1,3 @@
-﻿![proftop-optimized](assets/temp_banner.gif "Art by [froggy](https://www.https://froggy.world/)")
-
 ## Hello, I'm ian <img src="assets/catCute.webp">
 I am a full-stack web developer based in Surrey, British Columbia, Canada. As an enthusiastic programmer, I am always on the lookout for new and exciting challenges to tackle. My strength is in creating robust and scalable web applications that provide a pleasant user experience. I am also an excellent collaborator who enjoys working with others to produce high-quality results.
 
