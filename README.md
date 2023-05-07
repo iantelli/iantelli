@@ -29,7 +29,6 @@ Some of the technologies I use the most:
 If you have a project you'd like to discuss or simply want to say hello, feel free to reach out to me at any platform listed below. I'm always interested in meeting new people and exploring exciting opportunities.
 
 <a href="mailto:iantelli@iantelli.com" target="_blank">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/ian-chao/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://discordapp.com/users/155481915036532736" target="_blank">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 <!-- Art by [froggy](https://www.https://froggy.world/) -->
