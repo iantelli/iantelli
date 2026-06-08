@@ -1,5 +1,5 @@
 ## Hello, I'm ian <img src="assets/catCute.webp">
-I am a full-stack web developer based in Surrey, British Columbia, Canada. As an enthusiastic programmer, I am always on the lookout for new and exciting challenges to tackle. My strength is in creating robust and scalable web applications that provide a pleasant user experience. I am also an excellent collaborator who enjoys working with others to produce high-quality results.
+I am a full-stack web developer based in Vancouver, Canada.
 
 ## Coding Skills <img src="assets/businessing.webp">
 Despite only starting to code four years ago, I have made significant progress in my career and am continually looking for new opportunities to learn and grow.
@@ -26,9 +26,9 @@ Some of the technologies I use the most:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contact Me <img src="assets/aloo.webp">
-If you have a project you'd like to discuss or simply want to say hello, feel free to reach out to me at any platform listed below. I'm always interested in meeting new people and exploring exciting opportunities.
+If you have a project you'd like to discuss or simply want to say hello, feel free to reach out to me at any platform listed below.
 
-<a href="mailto:iantelli@iantelli.com" target="_blank">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:contact@2ndex.dev" target="_blank">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://discordapp.com/users/155481915036532736" target="_blank">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 <!-- Art by [froggy](https://www.https://froggy.world/) -->
