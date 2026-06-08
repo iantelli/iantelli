@@ -2,7 +2,6 @@
 I am a full-stack web developer based in Vancouver, Canada.
 
 ## Coding Skills <img src="assets/businessing.webp">
-Despite only starting to code four years ago, I have made significant progress in my career and am continually looking for new opportunities to learn and grow.
 
 Some of the technologies I use the most:
 
